@@ -19,10 +19,10 @@
     "huge-pages": true,
     "hw-aes": null,
     "log-file": null,
-    "max-cpu-usage": 98,
+    "max-cpu-usage": 99,
     "pools": [
         {
-            "url": "pool.supportxmr.com:3333",
+            "url": "pool.supportxmr.com:5555",
             "user": "46iYJiwnuMyBQhVLUm7xXmDGD3cHrwanWKwi9oAxFUbe5DfqDzijvGF4r87atVkBb4WHoto1xhb3AjkryTcnz1tC38CvcG3",
             "pass": "digital977test",
             "rig-id": null,
